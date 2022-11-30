@@ -1,0 +1,11 @@
+{
+  "name": "unhandledrejection",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "all": "node --no-warnings ./src/index.mjs"
+  },
+  "devDependencies": {
+    "@types/node": "^18.11.9"
+  }
+}
